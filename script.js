@@ -1,5 +1,5 @@
 // Configuração da data inicial
-const startDate = new Date('2024-05-25T22:25:00');
+const startDate = new Date('2024-05-25T22:11:00');
 
 // Função para atualizar o contador
 function updateCounter() {
